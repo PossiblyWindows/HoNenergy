@@ -13,7 +13,7 @@ panel.innerHTML=`
 </div>
 </div>
 <div id="vh-body">
-<div id="vh-info">Captures POSTs to <code>httpCheckVote?timestamp</code>.</div>
+<div id="vh-info">Captures POST requests responsible for adding energy when you vote.</div>
 <div id="vh-capture-area"><div id="vh-capture-list"></div></div>
 <div id="vh-editor"><label>Selected payload (editable):</label><textarea id="vh-payload" rows="8"></textarea></div>
 <div id="vh-options">
